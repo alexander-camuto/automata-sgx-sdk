@@ -58,4 +58,3 @@ pub extern crate sgx_tse;
 
 #[cfg(feature = "sgx_unwind")]
 pub use sgx_unwind;
-
